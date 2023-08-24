@@ -164,6 +164,10 @@ hardWork1((work1) => {
   });
 });
 
+function test12() {
+  console.log("하하");
+}
+
 // const workList = [];
 // let time = 0;
 
@@ -310,5 +314,5 @@ hardWork1((work1) => {
 //123123123123
 
 function test132() {
-  console.log("하하");
+  console.log("하하12");
 }
